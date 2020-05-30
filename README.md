@@ -2,4 +2,4 @@
 
 Input Element Type Search, Tel, Number, URL, Range.
 
-![tugas17](screen/tugas17.png)
+![tugas17](screen/tugas-17.png)
